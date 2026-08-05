@@ -24,3 +24,5 @@ INSERT INTO student VALUES('brown', 18, 2,'cs');
 ```
 SELECT * FROM student;
 ```
+### Screen shots
+![ exp2 output](exp2.png)
