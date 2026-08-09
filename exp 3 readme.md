@@ -1,0 +1,24 @@
+# II-CSE-E-SEC-DBMS-LAB
+DBMS LAB FOR AY 2026-27 I SEM
+## CREATE GRADE REPORT TABLE
+```
+CREATE TABLE GRADE_REPORT4(
+student_number NUMBER,
+section_identifier NUMBER,
+grade VARCHAR2(2)
+);
+
+```
+## DESCRIBE GRADE REPORT TABLE
+```
+DESC grade_report;
+```
+## INSERT GRADE REPORT TABLE
+```
+INSERT INTO grade_report VALUES (17,112,'C');
+INSERT INTO grade_report VALUES(8,85,'A');
+```
+## DISPLAY GRADE REPORT TABLE
+```
+SELECT * FROM grade_report;
+```
